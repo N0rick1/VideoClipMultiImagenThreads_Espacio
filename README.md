@@ -1,4 +1,4 @@
-# VideoClipMultiImagenThreads — Base Estudiantes
+# VideoClip Espacial — Procesamiento Multimedia con Java y Threads
 
 Proyecto base para crear una película generativa usando:
 
