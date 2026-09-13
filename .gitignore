@@ -1,0 +1,11 @@
+output/
+*.mp4
+*.class
+.idea/
+output/
+target/
+*.class
+*.mp4
+*.mpeg
+*.mp3
+.idea/
